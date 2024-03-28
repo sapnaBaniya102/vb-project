@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "t3Bp5FOjQBTEKXHS9X6vzpzWCO4o1El9TmPH8duUYXYOj0DUYpy3Bb3h5pYjyLRtXbbsdL5dhg84pnRB2HvlcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\visualprojectcontact\\visualprojectcontact\\visualprojectcontact.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\guna.ui2.winforms\\2.0.0.9\\guna.ui2.winforms.2.0.0.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Guna.UI2.WinForms 2.0.0.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Guna.UI2.WinForms",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

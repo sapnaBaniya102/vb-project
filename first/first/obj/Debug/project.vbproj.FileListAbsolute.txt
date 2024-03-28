@@ -1,0 +1,43 @@
+C:\Users\user\source\repos\first\first\obj\Debug\project.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\first\first\obj\Debug\first.home.resources
+C:\Users\user\source\repos\first\first\obj\Debug\first.login.resources
+C:\Users\user\source\repos\first\first\obj\Debug\first.Resources.resources
+C:\Users\user\source\repos\first\first\obj\Debug\first.Register.resources
+C:\Users\user\source\repos\first\first\obj\Debug\project.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\first\first\obj\Debug\project.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\first\first\bin\Debug\first.exe.config
+C:\Users\user\source\repos\first\first\bin\Debug\first.exe
+C:\Users\user\source\repos\first\first\bin\Debug\first.pdb
+C:\Users\user\source\repos\first\first\bin\Debug\first.xml
+C:\Users\user\source\repos\first\first\bin\Debug\Guna.UI2.dll
+C:\Users\user\source\repos\first\first\obj\Debug\project.vbproj.CopyComplete
+C:\Users\user\source\repos\first\first\obj\Debug\first.exe
+C:\Users\user\source\repos\first\first\obj\Debug\first.xml
+C:\Users\user\source\repos\first\first\obj\Debug\first.pdb
+C:\Users\user\source\repos\first\first\obj\Debug\first.contact.resources
+C:\Users\user\source\repos\first\first\obj\Debug\first.profile.resources
+C:\Users\user\source\repos\first\first\bin\Debug\contactdatabase.accdb
+C:\Users\user\source\repos\first\first\obj\Debug\first.email.resources
+C:\Users\user\source\repos\first\first\obj\Debug\first.group.resources
+C:\Users\user\source\repos\first\first\obj\Debug\first.setting.resources
+F:\vb project\first\first\obj\Debug\project.vbprojAssemblyReference.cache
+F:\vb project\first\first\obj\Debug\first.contact.resources
+F:\vb project\first\first\obj\Debug\first.email.resources
+F:\vb project\first\first\obj\Debug\first.group.resources
+F:\vb project\first\first\obj\Debug\first.home.resources
+F:\vb project\first\first\obj\Debug\first.login.resources
+F:\vb project\first\first\obj\Debug\first.Resources.resources
+F:\vb project\first\first\obj\Debug\first.profile.resources
+F:\vb project\first\first\obj\Debug\first.Register.resources
+F:\vb project\first\first\obj\Debug\first.setting.resources
+F:\vb project\first\first\obj\Debug\project.vbproj.GenerateResource.cache
+F:\vb project\first\first\obj\Debug\project.vbproj.CoreCompileInputs.cache
+F:\vb project\first\first\obj\Debug\first.exe
+F:\vb project\first\first\obj\Debug\first.xml
+F:\vb project\first\first\obj\Debug\first.pdb
+F:\vb project\first\first\bin\Debug\first.exe.config
+F:\vb project\first\first\bin\Debug\first.exe
+F:\vb project\first\first\bin\Debug\first.pdb
+F:\vb project\first\first\bin\Debug\first.xml
+F:\vb project\first\first\bin\Debug\Guna.UI2.dll
+F:\vb project\first\first\obj\Debug\project.vbproj.CopyComplete
